@@ -4,6 +4,6 @@
 - 📫 How to reach me akbarsana883@gmail.com
 
 <!---
-Saniikhan/Saniikhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sana Akbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
