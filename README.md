@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sana Akbar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning full stack development
 - 📫 How to reach me akbarsana883@gmail.com
 
 <!---
